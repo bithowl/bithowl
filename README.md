@@ -60,153 +60,9 @@ Mission:
 
 ---
 
-# 🧠 Security Philosophy
 
-> "The best vulnerabilities are discovered by understanding how systems really work."
 
-```
-Recon → Analyze → Exploit → Validate → Report → Improve
-```
 
----
-
-# 🔥 Research Areas
-
-## 📱 Android Security
-
-```
-APK Reverse Engineering
-Frida Instrumentation
-Objection
-ADB
-SSL Pinning Bypass
-Root Detection Bypass
-Deep Links
-Intent Vulnerabilities
-Local Storage Analysis
-Runtime Manipulation
-JNI Analysis
-Mobile API Testing
-```
-
----
-
-## 🌐 Web Security
-
-```
-IDOR
-Broken Access Control
-Authentication Bypass
-Business Logic Vulnerabilities
-XSS
-SSRF
-SSTI
-SQL Injection
-Race Conditions
-Request Smuggling
-Cache Poisoning
-File Upload Issues
-Open Redirect
-CSRF
-```
-
----
-
-## 🔗 API Security
-
-```
-REST APIs
-GraphQL
-JWT Security
-OAuth Security
-BOLA
-BFLA
-Rate Limit Testing
-Mass Assignment
-Parameter Pollution
-Authorization Testing
-API Logic Flaws
-```
-
----
-
-## 🤖 AI Security
-
-```
-Prompt Injection
-Indirect Prompt Injection
-LLM Jailbreaks
-AI Agent Security
-Prompt Leakage
-Model Abuse
-AI Red Teaming
-LLM Security Testing
-Adversarial AI
-```
-
----
-
-# ⚔ Offensive Security Toolkit
-
-## 🔎 Recon
-
-```
-Subfinder
-Amass
-Assetfinder
-Katana
-Naabu
-httpx
-gau
-waybackurls
-dnsx
-Nuclei
-Shodan
-Censys
-```
-
-## 🌐 Web Testing
-
-```
-Burp Suite Professional
-Caido
-OWASP ZAP
-FFUF
-Dalfox
-XSStrike
-SQLMap
-Arjun
-ParamSpider
-```
-
-## 📱 Android Testing
-
-```
-Frida
-MobSF
-ADB
-APKTool
-JADX
-Ghidra
-Objection
-mitmproxy
-Drozer
-```
-
-## 💻 Development
-
-```
-Python
-Bash
-JavaScript
-Docker
-Git
-Linux
-Kubernetes
-Cloud Security
-```
-
----
 
 # 💻 Tech Stack
 
@@ -217,7 +73,9 @@ Cloud Security
 </p>
 
 ---
+## 🧠 Knowledge & Skills
 
+`Burp Suite` `Metasploit` `Wireshark` `Bash` `Python` `Linux` `Go` `Git` `Debian` `Docker` `Flutter` `C` `C++` `Java` `HTML5` `CSS3` `JavaScript` `BlackArch` `MongoDB` `ExpressJS` `React` `Parrot OS` `NodeJS` `Ubuntu` `Kali Linux` `VS Code`
 # ⚙ Security Methodology
 
 ```
@@ -266,24 +124,6 @@ Cloud Security
 
 ---
 
-# 🎯 2026 Goals
-
-```
-☐ Publish Security Research
-
-☐ Release Open Source Security Tools
-
-☐ Build Advanced Recon Framework
-
-☐ Discover High Impact Vulnerabilities
-
-☐ Expand AI Security Research
-
-☐ Contribute To Security Community
-```
-
----
-
 # 📚 Research Progress
 
 | Area | Status |
@@ -297,42 +137,6 @@ Cloud Security
 
 ---
 
-# 📂 Featured Projects
-
-```
-📱 Android Security Research
-   Mobile security experiments,
-   reverse engineering,
-   Frida tooling
-
-
-🌐 API Security Toolkit
-   API testing automation,
-   authorization testing
-
-
-⚡ Recon Framework
-   Asset discovery,
-   enumeration,
-   automation
-
-
-🤖 AI Security Labs
-   Prompt injection,
-   LLM security testing
-
-
-📚 Security Writeups
-   Vulnerability research,
-   technical articles
-
-
-🧪 CTF Labs
-   Exploitation practice,
-   learning resources
-```
-
----
 
 # 📊 GitHub Analytics
 
@@ -348,15 +152,7 @@ Cloud Security
 
 ---
 
-# 🏆 GitHub Trophy
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BITHOWL&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
@@ -375,17 +171,13 @@ GitHub:
 https://github.com/BITHOWL
 
 X:
-https://x.com/YOUR_USERNAME
-
-LinkedIn:
-https://linkedin.com/in/YOUR_USERNAME
+https://x.com/thebithowl
 
 Blog:
-https://YOUR_WEBSITE
+https://medium.com/@bithowl
 
 Email:
-YOUR_EMAIL
-```
+
 
 ---
 
