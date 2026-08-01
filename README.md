@@ -79,7 +79,39 @@ Mission:
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITHOWL&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ---
+# 📊 GitHub Analytics
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BITHOWL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BITHOWL&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITHOWL&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BITHOWL&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BITHOWL&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
 # 🏆 GitHub Trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=BITHOWL&theme=tokyonight&no-frame=true&row=1&column=7"/>
