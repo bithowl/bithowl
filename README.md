@@ -86,7 +86,114 @@ Mission:
 <img src="https://raw.githubusercontent.com/BITHOWL/BITHOWL/output/github-contribution-grid-snake-dark.svg"/>
 
 ---
+# 📊 GitHub Analytics
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BITHOWL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITHOWL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.demolab.com?user=BITHOWL&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BITHOWL&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BITHOWL/BITHOWL/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+# 📂 Featured Projects
+
+<div align="center">
+
+## 🐺 HowlRack
+
+**Bug Bounty Automation Toolkit**
+
+A collection of scripts and automation tools built to improve reconnaissance, vulnerability discovery, and bug bounty workflows.
+
+🔗 https://github.com/BITHOWL/howlrack
+
+`Shell` `Automation` `Bug Bounty` `Security Research`
+
+---
+
+## 🌌 BugUniverse
+
+**Bug Bounty Research Playground**
+
+A learning and research repository covering vulnerability classes, security concepts, and resources for bug bounty hunters.
+
+🔗 https://github.com/BITHOWL/BugUniverse
+
+`Bug Bounty` `Web Security` `Security Research`
+
+---
+
+## 📡 HowlRadar
+
+**Bug Bounty Target Intelligence Tool**
+
+A tool designed to collect and organize targets from bug bounty platforms with useful information for security testing.
+
+🔗 https://github.com/BITHOWL/howlradar
+
+`Python` `Recon` `Automation`
+
+---
+
+## 📱 Mobile
+
+**Mobile Application Security Toolkit**
+
+A collection of resources and tools focused on Android application penetration testing, mobile security research, and bug bounty hunting.
+
+🔗 https://github.com/BITHOWL/mobile
+
+`Android Security` `Mobile Pentesting` `Bug Bounty`
+
+---
+
+## 🐺 HowlDroid
+
+**Android Reverse Engineering Research**
+
+Exploring Android internals through Smali, reverse engineering, and mobile application security research.
+
+🔗 https://github.com/BITHOWL/howldroid
+
+`Android` `Smali` `Reverse Engineering`
+
+---
+
+## 🔬 SmaliByBithowl
+
+**Smali Reverse Engineering Journey**
+
+A structured learning and research path covering Smali fundamentals to advanced Android analysis techniques.
+
+🔗 https://github.com/BITHOWL/SmaliBybithowl
+
+`Smali` `Android RE` `Mobile Security`
+
+</div>
 # Connect
 
 GitHub → https://github.com/BITHOWL
