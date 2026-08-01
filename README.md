@@ -87,6 +87,6 @@ Blog → https://medium.com/@bithowl
 
 ## "Hack Responsibly. Learn Relentlessly. Share Knowledge."
 
- If you like my work, consider following my journey in offensive security.
+Every bit tells a story I howl when the code lies.
 
 </div>
