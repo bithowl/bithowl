@@ -46,39 +46,31 @@ Mission:
 
 # 🎯 What I Do
 
-✔ Bug Bounty Hunting
+- 🕵️ **Bug Bounty Hunting**  
+  Finding real-world vulnerabilities and improving application security.
 
-✔ Offensive Security Research
+- ⚔️ **Offensive Security Research**  
+  Exploring attack surfaces, exploitation techniques, and security weaknesses.
 
-✔ Android Reverse Engineering
+- 📱 **Android Security Research**  
+  Reverse engineering APKs, analyzing mobile applications, and testing mobile security.
 
-✔ API Penetration Testing
+- 🌐 **Web & API Security Testing**  
+  Identifying vulnerabilities in web applications, APIs, authentication, and authorization systems.
 
-✔ AI & LLM Security Research
+- 🤖 **AI / LLM Security Research**  
+  Testing AI systems for prompt injection, jailbreaks, and security weaknesses.
 
-✔ Web Application Security
+- 🔧 **Security Automation**  
+  Building tools for reconnaissance, vulnerability discovery, and research workflows.
 
-✔ Security Automation
-
-✔ Technical Writing
-
-✔ Responsible Vulnerability Disclosure
-
----
-
-
-
+- ✍️ **Technical Research & Writeups**  
+  Documenting findings, methodologies, and security knowledge.
 ---
 
 # 📊 GitHub Analytics
 
 <img width="49%" src="https://streak-stats.demolab.com?user=BITHOWL&theme=tokyonight&hide_border=true"/>
-
-
----
-
-
----
 
 # 📈 Contribution Activity
 
