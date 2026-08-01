@@ -85,40 +85,7 @@ Mission:
 
 <img src="https://raw.githubusercontent.com/BITHOWL/BITHOWL/output/github-contribution-grid-snake-dark.svg"/>
 
----
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BITHOWL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITHOWL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.demolab.com?user=BITHOWL&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BITHOWL&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BITHOWL/BITHOWL/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 # 📂 Featured Projects
 
 <div align="center">
