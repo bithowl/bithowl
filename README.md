@@ -83,8 +83,11 @@ Mission:
 
 # 🐍 Contribution Snake
 
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/BITHOWL/BITHOWL/output/github-contribution-grid-snake-dark.svg"/>
 
+</div>
 
 # 📂 Featured Projects
 
