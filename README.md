@@ -122,14 +122,29 @@ Mission:
 
 <img src="https://raw.githubusercontent.com/BITHOWL/BITHOWL/output/github-contribution-grid-snake-dark.svg"/>
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BITHOWL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITHOWL&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BITHOWL&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
 ---
 
+# 🏆 GitHub Trophy
 
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=BITHOWL&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 
-
----
+</div>
 
 # 🌎 Connect
 
